@@ -1,0 +1,46 @@
+header{
+    text-align: center;
+    background-color: aliceblue;
+}
+
+section{
+    margin-top: 60px;
+
+    
+}
+
+img{
+    height: 150px;
+    width: 200px;
+
+}
+
+article{
+    float: left;
+    width: 200px;
+    margin-left: 15px;
+    background-color: blueviolet;
+}
+details{
+    margin-left: 10px;
+
+}
+  
+ body{
+     min-height: 100vh;
+     display: flex;
+     flex-direction: column;
+ }
+footer{
+    margin-top: auto;
+    background-color: aquamarine;
+}
+aside{
+margin: auto;
+position: relative; left: 80px; bottom: 670px; margin-left: 83%;
+background-color: bisque;
+}
+
+nav{
+    background-color: aliceblue;
+}
